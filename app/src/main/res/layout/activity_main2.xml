@@ -6,4 +6,12 @@
     android:layout_height="match_parent"
     tools:context="com.s10576019.cyel.githubtest5.Main2Activity">
 
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="To3"
+        android:onClick="clickButtonJumpPage3"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="7dp" />
 </android.support.constraint.ConstraintLayout>

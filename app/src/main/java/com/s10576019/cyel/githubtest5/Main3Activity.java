@@ -20,7 +20,5 @@ public class Main3Activity extends AppCompatActivity {
     }
 
     public void clickButtonJumpPage2(View view) {
-        Intent intent = new Intent(this, Main2Activity.class);
-        startActivity(intent);
     }
 }
